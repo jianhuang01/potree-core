@@ -24,6 +24,6 @@
         "INTENSITY"
     ],
     "spacing": 0.24935650825500489,
-    "scale": 0.001,
+    "scale": 4.0,
     "hierarchyStepSize": 5
 }
