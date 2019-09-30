@@ -21,7 +21,7 @@
     },
     "pointAttributes": [
         "POSITION_CARTESIAN",
-        "COLOR_PACKED"
+        "INTENSITY"
     ],
     "spacing": 0.24935650825500489,
     "scale": 0.001,
